@@ -1,1 +1,105 @@
-<mxfile host="www.draw.io" modified="2019-11-19T20:50:52.672Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36 OPR/64.0.3417.92" etag="hPWxn3qTxE1D_p0JuYr8" version="12.2.7" type="github" pages="1"><diagram id="cJzcwGDoJmYtKWrhS7tA" name="Page-1">7Vptb5s6FP41aJ92BRhI8jFJm61TJ1Wqprvdbw444M3gzJg06a+/NjbvNMluA02lW1Wtz+H47ZznvNhggGW8/8TgNvpKA0QM2wz2BrgxbHsGHPFXMg6K4blAMUKGA8WyKsYjfkaaaWpuhgOUNgQ5pYTjbZPp0yRBPm/wIGP0qSm2oaQ56xaGqMN49CHpcv/GAY8Ud2pPKv5nhMOomNnyZurJGvq/QkazJLiLyzmMycKwvd8ZFeKLlPkVYYB5RYQJFL+1h/ayIp7yZfR3fKFLpFZ4ss/kRq09hsVGtRXSCAb0qcYCtwZYMiq7yVa8XyIi7V7YVPVbvfC0VCpDCT+nw+r27su3RXa3fXhMAM0+h6v7Hx89NcoOkqxQr1osPxTWi3hMRMvKt9meUq9ihxhH+xpLL+ETojHi7CBE9FPb0erQWLaApp8qZDie5kU1VLgFE2o0huXY1aZFQ+/7D3Rge509o0AAWJOU8YiGNIHktuIuclQiOawpqErmntKt1tZPxPlBeyPMOJUgqnSJ9ph/l93/cjX1o0Hd7PXYOXGoEQ+IYbFzxApeIrTwvU7URpJkNVROFWO9aM2UZsxHRzRm6fjDIQsRPyY4VYJSn0fRwRCBHO+aAaPP0rrrA8Vi0SWqShRpVNlmCyxqpbpXhZc5Y/BQE9tKgfTleQQMG/MATa/OlLemZguuagUVeEud/Hc8O7P/8TwQnsHF8fyqyFXUAe/V0q+32NCBxZ02HbisqS4dWFoB7GRgaclbpnlUvr2PlvwwgagwUq26+MYxwSnkKGMd6IoCaSubWUzmPqcCJAtZV2BRSN7DNSIPNMUc00SIrCnnNBYCRD5YlGXikhLZT4wGNvlPbYw5waHsyyXMF5etaiyrlX+cblXTV9RYk8GKGvN0ZTdCrHiFh0/PrTFmVxWTi3XXFH9jLIExn3FxtspxbwZIHhBotkOx1IvtwVhiMlmn21Jnw1Xg01bo8LpYtdwesDqDYbUbJ94ZVmdnYrXY2IXT1p9mG+BOmtnGO549TsgPlD1mHVTABItjtUwBwocy6UOYUdzNJMM6jP32DuO+c4cp1nvaYZwrcZhm+eS4pxzmqPxA5743vcco2medBUY/4Z0NOOBeBeAKwJQRdzYCgAol1SPuZoP9SN696qqFfIhEDYPyq1HNgbIFubxrJfIKdC0CshfKFuJloNYlkPpHR47YoC9iT/ouGQeL2M4J1aY5pIQrPn/c0UxSXXXmyjNzTSSjZz3nzXVYDHwN8c2+tgAHzj0uOZNLB7jXGdW6HqO+X5te17Uk6B6B58I6hxQV6WCH0zzwjRrB3ElPBOu7lRmsbgfdup0h+dYV4jSFiS/1s4E+hqR7J9BOBvN6+viQySNRjFKl1r7cUb6hXNDkJ82vIZY0VvcPpk45kBD0bIBV48Vmex1j3lU4szMS+azHhIO9LCzCZ82Ej1hWQagGaxOWOZ1DP8obJMO9htkyuqUpYmUPwQgyzHN7BKpe+p1BVSwOqGrXbHmL1aPq6aiq7oaRR5zkh3+lTFVBoaollZh7QlfNDd8owS2Az1nDciiV/pBg/5f8BqOSHBjmzeOi16f7UWHudo8C/1AxNmtDvR0OzJEjhGs3YWtbbld14DJlqiCrzzXUoav6Xgfc/gs=</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-21T12:34:05.778Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36 OPR/64.0.3417.92" etag="lh39LuOxuzRezjkmPWMr" version="12.2.8" type="github" pages="1">
+  <diagram id="cJzcwGDoJmYtKWrhS7tA" name="Page-1">
+    <mxGraphModel dx="906" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" backgroundImage="{&quot;src&quot;:&quot;gnagna&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;}" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="FEIJUBuIpPSn3ouHgFLY-6" value="" style="html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="50" width="670" height="720" as="geometry"/>
+        </mxCell>
+        <mxCell id="FEIJUBuIpPSn3ouHgFLY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="FEIJUBuIpPSn3ouHgFLY-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="180" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="220" y="325"/>
+              <mxPoint x="220" y="180"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FEIJUBuIpPSn3ouHgFLY-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="FEIJUBuIpPSn3ouHgFLY-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="585" y="210" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="220" y="325"/>
+              <mxPoint x="220" y="100"/>
+              <mxPoint x="585" y="100"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FEIJUBuIpPSn3ouHgFLY-13" value="Utilisateur" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="240" width="60" height="170" as="geometry"/>
+        </mxCell>
+        <mxCell id="FEIJUBuIpPSn3ouHgFLY-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="200" as="sourcePoint"/>
+            <mxPoint x="355" y="260" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4R_V0kBBTfJl3e2lO3r4-1" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;Détecteur de mouvement&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="145" width="150" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="4R_V0kBBTfJl3e2lO3r4-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4R_V0kBBTfJl3e2lO3r4-2" target="4R_V0kBBTfJl3e2lO3r4-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="355" y="350"/>
+              <mxPoint x="355" y="350"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4R_V0kBBTfJl3e2lO3r4-2" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;animation du miroir&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="266" width="140" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="4R_V0kBBTfJl3e2lO3r4-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4R_V0kBBTfJl3e2lO3r4-3" target="4R_V0kBBTfJl3e2lO3r4-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="460"/>
+              <mxPoint x="360" y="460"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4R_V0kBBTfJl3e2lO3r4-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4R_V0kBBTfJl3e2lO3r4-3" target="4R_V0kBBTfJl3e2lO3r4-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="4R_V0kBBTfJl3e2lO3r4-3" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;affichage de l&#39;heure, de la date&lt;/span&gt;&lt;br style=&quot;white-space: nowrap&quot;&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;et du météo&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="367" width="190" height="63" as="geometry"/>
+        </mxCell>
+        <mxCell id="4R_V0kBBTfJl3e2lO3r4-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4R_V0kBBTfJl3e2lO3r4-4" target="4R_V0kBBTfJl3e2lO3r4-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="355" y="580"/>
+              <mxPoint x="355" y="580"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4R_V0kBBTfJl3e2lO3r4-4" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;affichage des rendez-vous&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;white-space: nowrap&quot;&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;à venir&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="475" width="170" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="4R_V0kBBTfJl3e2lO3r4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4R_V0kBBTfJl3e2lO3r4-6" target="4R_V0kBBTfJl3e2lO3r4-10">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="4R_V0kBBTfJl3e2lO3r4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4R_V0kBBTfJl3e2lO3r4-6" target="4R_V0kBBTfJl3e2lO3r4-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="615" y="610"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4R_V0kBBTfJl3e2lO3r4-6" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;Analyse du visage&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="590" width="140" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="4R_V0kBBTfJl3e2lO3r4-7" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;Zoomer le visage&amp;nbsp; &amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="215" width="140" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="4R_V0kBBTfJl3e2lO3r4-8" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;reconnaissance facial&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;white-space: nowrap&quot;&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;Affichage d&#39;un message&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;white-space: nowrap&quot;&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;&quot;Bonjour Comment vous allez?&quot;&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="353.5" width="210" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="4R_V0kBBTfJl3e2lO3r4-9" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;Si le visage a des taches lui&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;white-space: nowrap&quot;&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;proposer des produits adéquats&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="500" width="200" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="4R_V0kBBTfJl3e2lO3r4-10" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;Sinon lui affiche afficher un&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;white-space: nowrap&quot;&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;message &quot; votre visage est nickel&quot;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="660" width="210" height="70" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
